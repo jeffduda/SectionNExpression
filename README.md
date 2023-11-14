@@ -1,5 +1,7 @@
 # SectionNExpression
 
+This has been testing with python 3.9
+
 -p = directory should contain a file called "section_datasets_metadata.csv" and subdirs for all datasets
      each subdir should have an alignment json, a metadata json and directores called "expression_images" and "section_images"
 
